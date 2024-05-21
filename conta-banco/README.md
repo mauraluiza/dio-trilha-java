@@ -1,18 +1,8 @@
-## Getting Started
+# 💳 Conta bancária
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto de simulação de uma conta bancária, desenvolvido como desafio de estudo de sintaxe da linguagem de programação Java para o bootcamp [Santander 2024](https://web.dio.me/track/santander-2024-backend-com-java). 
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 🖋 Nesse projeto, eu aprendi a...
+- Importar, declarar e utilizar a classe **Scanner** e alguns de seus métodos, como **nextInt()**, **nextLine()** e **nextDouble()**.
+- Utilizar **Strings** e concatenar dados com o operador **+** na impressão.
+- Trabalhar com entrada e saída de dados, utilizando **System.out.prinln()** para a saída.
